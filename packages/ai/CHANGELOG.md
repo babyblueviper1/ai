@@ -1,5 +1,11 @@
 # ai
 
+## 7.0.54
+
+### Patch Changes
+
+- 5615eb7: Add `defaultInstructionsMiddleware` for applying default language model instructions while preserving call-level overrides.
+
 ## 7.0.53
 
 ### Patch Changes
